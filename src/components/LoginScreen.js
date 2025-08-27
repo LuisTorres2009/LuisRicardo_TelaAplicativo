@@ -73,7 +73,7 @@ export default function LoginScreen({ navigation }) {
         </TouchableOpacity>
       </View>
 
-      {/* Divider */}
+      {/* Divisor */}
       <View style={style.divisor}>
         <View style={style.linha} />
         <Text style={style.textoOu}>Ou continue com</Text>
