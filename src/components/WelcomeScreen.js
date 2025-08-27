@@ -94,7 +94,7 @@ const style = StyleSheet.create({
     marginLeft: 55,
   },
   textoSecundario: {
-    color: "black",
+    color: "black", 
     fontSize: 13,
   },
   icone: {
